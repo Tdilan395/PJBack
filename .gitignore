@@ -1,0 +1,6 @@
+*.log
+# Dependency directories
+node_modules/
+jspm_packages/
+.npm
+.env
